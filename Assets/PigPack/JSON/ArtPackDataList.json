@@ -1,0 +1,27 @@
+{
+    "list": [
+        {
+            "abname": "ui_prefab",
+            "assetfiles": [
+                "Assets/Game/UI/Prefab/PanelGameStart.prefab",
+                "Assets/Game/UI/Prefab/PanelHelloWorld.prefab"
+            ]
+        },
+        {
+            "abname": "ui_sprite",
+            "assetfiles": [
+                "Assets/Game/UI/Sprite/BackgroundGreyGridSprite.png",
+                "Assets/Game/UI/Sprite/BackgroundNavyGridSprite.png",
+                "Assets/Game/UI/Sprite/CratePinkGridSprite.png",
+                "Assets/Game/UI/Sprite/PlatformWhiteSprite.png",
+                "Assets/Game/UI/Sprite/RobotBoyCrouchSprite.png",
+                "Assets/Game/UI/Sprite/RobotBoyDeathSprite.png",
+                "Assets/Game/UI/Sprite/RobotBoyIdleSprite.png",
+                "Assets/Game/UI/Sprite/RobotBoyJumpSprite.png",
+                "Assets/Game/UI/Sprite/RobotBoyRollSprite.png",
+                "Assets/Game/UI/Sprite/RobotBoyRunSprite.png",
+                "Assets/Game/UI/Sprite/RobotBoyWalkSprite.png"
+            ]
+        }
+    ]
+}
